@@ -1,2 +1,2 @@
 # my first README
-# zero_day
+ ## My Name Is Wasihun Zegeye And This Is My First ReadMe From git command line
